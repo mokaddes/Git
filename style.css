@@ -1,0 +1,101 @@
+.menu{
+    height: 50px; background-color: #F4511E;padding:0px 50px; position: fixed; width: 91.45%; top: 0; display: block;
+}
+.left{
+    float: left;height: 50px;line-height: 50px;margin-left: 50px;
+}
+.left a{
+    text-decoration: none;padding-top: 16px;; text-transform: uppercase; color: #fff;padding-bottom: 16px;padding-right: 20px;
+}
+.right{
+    float: right; margin-right: 30px;
+}
+.right ul{
+    margin: 0;
+}
+.right ul li{
+    float: left;list-style: none;height: 50px;line-height: 50px;
+}
+.right ul li a{
+    text-decoration: none;padding-top: 16px;; text-transform: uppercase; color: #fff;padding-bottom: 16px;padding-right: 10px; padding-left: 10px;
+}
+.right ul li a:hover{
+    background-color: #fff;color: #F4511E;
+}
+#logo{
+     
+}
+.header{
+   text-align: center; margin: 0; background-color: #F4511E;padding-bottom: 50px;display: block; padding-top: 100px; 
+}
+.header h1{
+    margin: 0; font-size: 63px; padding: 20px;color: #fff; font-family: sans-serif; padding-bottom: 10px;
+}
+.header p{
+    margin: 0; color: #fff; font-family: sans-serif;font-family: sans-serif;
+}
+.header form{
+    margin-top: 10px;
+}
+.email{
+    width: 409px; border-radius: 4px;color: gray; padding: 6px 12px; border:1px solid #d43f3a; font-family: sans-serif;
+}
+.submit{
+    color: #fff;background-color:#d9534f; border: 1px solid #d43f3a; border-radius: 4px;padding: 4px 6px; font-weight: 400; font-family: sans-serif; font-size: 16px;
+}
+.submit:hover{
+    background-color: #C9302C;
+}
+#about .first h4{
+    float: left; width: 60%; margin-left: 50px;font-size: 19px;color: #303030;font-family: sans-serif; line-height: 1.37em;
+}
+#about{
+    padding-top: 50px;
+}
+about .first img{
+    margin-left: 20px;
+}
+#about .first h2{
+    width: 60%;float: left; margin-left: 50px;margin-top: 50px;font-family: sans-serif;
+}
+#about .first .button{
+    float: left;position;margin-left: 50px;padding: 16px; margin-top: 50px;color: #303030; color: #333;background-color: #fff; border: 1px solid #ccc; border-radius: 6px; font-weight: 400;text-align: center;font-family: sans-serif;font-size: 19px;
+}
+#about .first article{
+    float: left; width: 60%; margin-left: 50px;margin-top:50px;color: #818181;
+}
+.btn{
+    width: 60%;
+}
+.button button:hover{
+    background-color:#818181; 
+}
+.first{
+    display: inline-block;
+}
+#about .second{
+    margin-top: 20px; display: inline-block;
+}
+#about .second .world{
+    float: left; margin-right: 20%;
+}
+#about .second h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+#about .second h4{
+    font-size: 19px;
+    line-height: 1.375em;
+    color: #303030;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+#about .second p{
+    color: #818181; line-height: 1.37em;
+}
+.btn a{
+    text-decoration: none;color: #818181;
+}
